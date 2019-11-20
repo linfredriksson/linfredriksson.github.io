@@ -15,17 +15,17 @@ footer: linus fredriksson
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/linusfredriksson/
+    url: https://www.linkedin.com/in/linusfredriksson
   - title: github
-    url: https://www.github.com/linfredriksson/
+    url: https://www.github.com/linfredriksson
   - title: vimeo
-    url: https://www.vimeo.com/linusfredriksson/
+    url: https://www.vimeo.com/linusfredriksson
   - title: sketchfab
-    url: https://sketchfab.com/linfredriksson/models/
+    url: https://sketchfab.com/linfredriksson/models
   - title: thingiverse
-    url: https://www.thingiverse.com/linfredriksson/
+    url: https://www.thingiverse.com/linfredriksson
   - title: myminifactory
-    url: https://www.myminifactory.com/users/linusfredriksson/
+    url: https://www.myminifactory.com/users/linusfredriksson
 
 # Build settings
 markdown: kramdown
