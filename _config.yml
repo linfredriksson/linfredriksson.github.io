@@ -7,7 +7,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#a53145'
 
 # Footer settings
 footer: linus fredriksson
@@ -15,17 +15,17 @@ footer: linus fredriksson
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://https://linfredriksson.github.io/
+    url: https://www.linkedin.com/in/linusfredriksson/
   - title: github
-    url: https://https://linfredriksson.github.io/
+    url: https://www.github.com/linfredriksson/
   - title: vimeo
-    url: https://https://linfredriksson.github.io/
+    url: https://www.vimeo.com/linusfredriksson/
   - title: sketchfab
-    url: https://https://linfredriksson.github.io/
+    url: https://sketchfab.com/linfredriksson/models/
   - title: thingiverse
-    url: https://https://linfredriksson.github.io/
+    url: https://www.thingiverse.com/linfredriksson/
   - title: myminifactory
-    url: https://https://linfredriksson.github.io/
+    url: https://www.myminifactory.com/users/linusfredriksson/
 
 # Build settings
 markdown: kramdown
